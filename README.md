@@ -8,7 +8,7 @@
 - First time ever used a computer was in 1980 (with Fortran 77) while studying to be a Technologist Mechanical Engineer
 - Later on I took lessons on Basic, Pascal, Cobol, Dbase III Plus and Clipper Summer '87
 - I've worked as Systems' Programmer from 1987 to 1990 - from then on as programmer and later on as CIO in a Dutch multinational company
-- My web developmet knowledge is quite outdated
+- My web development knowledge is quite outdated
 - I got retired a few months ago and I want to help my friend to setup a web site
 <!---
 Sifis-747/Sifis-747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
